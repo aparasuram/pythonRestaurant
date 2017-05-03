@@ -1,0 +1,2 @@
+# pythonRestaurant
+A menu driven project to bring up a menu of options to eat. User selects what he wants from the menu and puts them into a cart. He can view the cart at any time. Cart shows what has been selected so far and the price of each and the total price of all items. When he is done, he checksout and a bill is shown. On accepting the bill the system will priint an invoice and an approximate time when his food will be delivered to his table.
